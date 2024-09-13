@@ -9,10 +9,10 @@ h1{
 p{
     font-size: larger;
 }
-.cms{
-    border: 3px;
-    border-color: rgba(255, 38, 38, 0.89);
-}
+a:link, a:visited {
+    float: left;
+    border: 1px solid rgb(255, 0, 0);
+  }
 #div2{
     margin-top: 100px;
     margin-bottom: 100px;
