@@ -13,7 +13,7 @@ p{
     border: 2px;
     border-color: rgba(248, 0, 0, 0.897);
 }
-a:link a:visited{
-    background-color: rgb(196, 196, 196);
-    color: rgb(0, 0, 0);
-}
+.button {
+    float: left;
+    border: 1px solid green;
+  }
