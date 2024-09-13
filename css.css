@@ -13,3 +13,9 @@ p{
     border: 3px;
     border-color: rgba(255, 38, 38, 0.89);
 }
+div{
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
