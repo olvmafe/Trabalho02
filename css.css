@@ -17,3 +17,8 @@ p{
     float: left;
     border: 1px solid rgb(133, 133, 133);
   }
+  .footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+  }
