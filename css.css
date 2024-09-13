@@ -9,16 +9,7 @@ h1{
 p{
     font-size: larger;
 }
-#cms{
-    border: 2px;
-    border-color: rgba(248, 0, 0, 0.897);
+.cms{
+    border: 3px;
+    border-color: rgba(255, 38, 38, 0.89);
 }
-.button {
-    float: left;
-    border: 1px solid rgb(133, 133, 133);
-  }
-  .footer {
-    background-color: #F1F1F1;
-    text-align: center;
-    padding: 10px;
-  }
