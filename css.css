@@ -9,11 +9,7 @@ h1{
 p{
     font-size: larger;
 }
-a:link, a:visited {
-    text-align: center;
-    border: 1px solid rgb(255, 0, 0);
-    background-color: antiquewhite;
-  }
+
 
 div{
     margin-top: 50px;
